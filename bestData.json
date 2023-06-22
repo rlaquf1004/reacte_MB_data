@@ -1,0 +1,36 @@
+[
+    {
+        
+        "imgUrl":"/img/best_item/best5.jpg",
+        "imgUrl2":"/img/best_item/best5_5.jpg",
+        "title": "말본 스크립트 라운드 티셔츠 WHITE (UNISEX)",
+        "code":"M3223PRS06WHT",
+        "price":"129,000원"
+
+    }, {
+        
+        "imgUrl":"/img/best_item/best6.jpg",
+        "imgUrl2":"/img/best_item/best6_6.jpg",
+        "title": "버킷 폴로 포인트 티셔츠 PINK (MAN)",
+        "code":"M3221PTS04PNK",
+        "price":"259,000원"
+
+
+    } , {
+    
+        "imgUrl":"/img/best_item/best7.jpg",
+        "imgUrl2":"/img/best_item/best7_7.jpg",
+        "title": "말본 스크립트 라운드 티셔츠 BLACK (UNISEX)",
+        "code":"M3223PRS06BLK",
+        "price":"129,000원"
+
+
+    }, {
+        
+        "imgUrl":"/img/best_item/best8.jpg",
+        "imgUrl2":"/img/best_item/best8_8.jpg",
+        "title": "빈티지 컬러 무드 캡 NAVY",
+        "code":"M3143PCP05NVY",
+        "price":"99,000원"
+
+    }]
